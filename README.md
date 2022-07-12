@@ -1,6 +1,6 @@
 ----
 
-**UENG STUDIO**
+<p text-align="center">**UENG STUDIO**</p>
 
 ----
 
