@@ -1,6 +1,6 @@
 ----
 
-<img src="UengLogo[nb].png" alt="" align="center" width="100px" height="auto">
+<img src="UengLogo[nb].png" alt="" align="center" width="200px" height="auto">
 
 ----
 
