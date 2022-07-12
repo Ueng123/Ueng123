@@ -1,6 +1,6 @@
 ----
 
-<img src="UengLogo[nb].png" alt="" style="align:center;" width="200px" height="auto">
+**UENG STUDIO
 
 ----
 
