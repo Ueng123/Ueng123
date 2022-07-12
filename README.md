@@ -1,7 +1,5 @@
 ----
-
-<p text-align="center">**UENG STUDIO**</p>
-
+UENG STUDIO
 ----
 
 Visit Here to learn more.
