@@ -34,10 +34,10 @@
 
 <h2>제작물</h2>
 
-> Unity C Sharp를 이용한 게임
-> HTML, CSS, JS를 이용한 웹 사이트
-> PYTHON의 py-cord 모듈을 이용한 디스코드 봇
-> PYTHON의 py-game 모듈을 이용한 간단한 게임
+> Unity C Sharp를 이용한 게임<br>
+> HTML, CSS, JS를 이용한 웹 사이트<br>
+> PYTHON의 py-cord 모듈을 이용한 디스코드 봇<br>
+> PYTHON의 py-game 모듈을 이용한 간단한 게임<br>
 > Batch를 이용한 간단한 기능들
 
 <br><br><br><br>
