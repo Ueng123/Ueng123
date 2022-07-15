@@ -57,6 +57,6 @@
 <br><br><br><br>
 
 <h1>우엥 스튜디오의 스탯</h1><br>
-<h3 align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ueng123&title_color=000000&bg_color=ffffff&text_color=000000&locale=kr&hide_border=true&show_icons=true&icon_color=000000&custom_title=우엥 스튜디오 STATS"></h3>
+<h3 align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ueng123&title_color=151515&bg_color=efefef&text_color=151515&locale=kr&hide_border=true&show_icons=true&icon_color=000000&custom_title=우엥 스튜디오 STATS"></h3>
 
 <br><br><br><br>
