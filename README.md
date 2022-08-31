@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <br>
-  <img src="https://cdn.discordapp.com/attachments/964724308821819446/996703527491600394/138_20220713180353.png" alt="" width="190" height="auto">
+  <img src="https://cdn.discordapp.com/attachments/977833723368185886/1013759232564269067/140_20220829193656.png" alt="" width="190" height="auto">
   <br><b>우 엥 스 튜 디 오</b><br><br>
 </h3>
 
