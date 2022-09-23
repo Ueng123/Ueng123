@@ -5,20 +5,20 @@
 <h3 align="center">
   <br>
   <img src="https://cdn.discordapp.com/attachments/977833723368185886/1013759232564269067/140_20220829193656.png" alt="" width="190" height="auto">
-  <br><b>우 엥 스 튜 디 오</b><br><br>
+  <br><b>NUUUG STUDIO</b><br><br>
 </h3>
 
 ----
 
 <br><br><br><br>
 
-<h1>우엥 스튜디오가 뭔가요?</h1>
-<h3>우엥 스튜디오는 NEWE 산하 WELLO STUDIO의 인원중 하나예요.<br></h3>
+<h1>NUUUG는 누구인가요?</h1>
+<h3>NUUUG는 NEWE WELLO STUDIO의 인원이예요.<br></h3>
 
 <br><br><br><br>
 
-<h1>우엥 스튜디오가 할 수 있는것</h1><br>
-<h3>우엥 스튜디오는 이걸 할 수 있어요.<br><br><br></h3>
+<h1>NUUUG가 할 수 있는것</h1><br>
+<h3>NUUUG는 이걸 할 수 있어요.<br><br><br></h3>
 
 <h2>사용 언어</h2>
 
@@ -46,8 +46,8 @@
 
 <br><br><br><br>
 
-<h1>우엥 스튜디오의 소셜</h1><br>
-<h3>우엥 스튜디오는 이 사람들과 연관이 있어요.</h3>
+<h1>NUUUG의 소셜</h1><br>
+<h3>NUUUG는 이 사람들과 연관이 있어요.</h3>
 <br>
 
 > <a href="https://github.com/wello-studios">WELLO STUDIO</a>
@@ -56,7 +56,7 @@
 
 <br><br><br><br>
 
-<h1>우엥 스튜디오의 스탯</h1><br>
+<h1>NUUUG의 스탯</h1><br>
 <h3 align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ueng123&title_color=151515&bg_color=ffffff&text_color=151515&locale=kr&hide_border=true&show_icons=true&icon_color=000000&custom_title=우엥 스튜디오 STATS"></h3>
 
 <br><br><br><br>
