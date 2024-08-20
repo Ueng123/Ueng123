@@ -1,22 +1,23 @@
-# WHERE I'M IN
+
 ```python
+# python
 from WelloStudio import NUUUG
 ```
-```c
-#include <NuuugStudio.h>
-```
-
-# WHO AM I
+---
 ```java
+// java
 public class NUUUG extends KOREAN {...}
 ```
 ```c++
+// c++
 std::cout << "my_age = " << currYear - 2008 << std::endl;
 ```
-```lua
-local what_i_want_to_be = "Game Dev"
+```javascript
+// javascript
+let what_i_want_to_be = "programmer";
 ```
 ```csharp
+// C#
 public string[] what_can_i_do = [
   "PYTHON",
   "UNITY C#",
@@ -27,4 +28,10 @@ public string[] what_can_i_do = [
   "JAVASCRIPT",
   "LUA"
 ]
+```
+---
+```kotlin
+// kotlin
+val email = "nomn1357@gmail.com"
+val discord = "_nuuug"
 ```
