@@ -1,7 +1,13 @@
-
-<h3 align="center">
-  <br>
-  <img src="https://cdn.discordapp.com/attachments/977833723368185886/1022054673026383922/162_20220921170016.png" alt="" width="190" height="auto">
-  <br><b>NUUUG STUDIO</b><br><br>
-  <a href="https://www.nuuug.com">https://www.nuuug.com</a>
-</h3>
+```python
+print("Hello, Wello!")
+```
+```csharp
+public string[] what_can_i_do = [
+  "PYTHON",
+  "UNITY C#",
+  "C",
+  "JAVA",
+  "JAVASCRIPT",
+  "LUA"
+]
+```
