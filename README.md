@@ -1,7 +1,7 @@
 
 ```python
 # python
-from WelloStudio import NUUUG
+from WELLO.CSM import NUUUG
 ```
 ---
 ```java
